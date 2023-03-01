@@ -1,4 +1,8 @@
 Please signup
 Name: Rakshith
+<<<<<<< HEAD
 Job: Research Intern
 Timings: 10 am - 06 pm
+=======
+job: Research Intern
+>>>>>>> feature-signup
